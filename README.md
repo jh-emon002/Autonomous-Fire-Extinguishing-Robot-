@@ -16,11 +16,11 @@ This bot is a practical demonstration of intelligent fire-fighting systems. Usin
 
 ## 🧠 Features
 
-- 🔥 **Flame Detection:** 3 flame sensors (D7, D8, D9 on Arduino)
-- 🌡️ **Temperature Monitoring:** 2 analog temperature sensors; triggers reverse movement if temp > 140°C
-- 🧠 **Autonomous Logic:** Robot decides direction and motion based on sensor inputs
-- 🚗 **Motor Control:** L298N motor driver (IN1–IN4 connected to D2–D5)
-- 📶 **ESP-NOW Communication:** Sensor data sent from ESP32 to ESP8266
+- 🔥 **Flame Detection:** 
+- 🌡️ **Temperature Monitoring:** 
+- 🧠 **Autonomous Logic:** 
+- 🚗 **Motor Control:** 
+- 📶 **ESP-NOW Communication:** 
 - 🔌 **Power Efficient & Safe**
 
 ---
